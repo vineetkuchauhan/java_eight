@@ -3,7 +3,7 @@ package com.thinkinjava.eight.foreach;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ForEachInJDKSIX {
+public class IterateMapInJDKEight {
     public static void main(String arg[]) {
         Map<String, Integer> items = new HashMap<>();
         items.put("A", 10);
@@ -16,5 +16,15 @@ public class ForEachInJDKSIX {
         items.put("G", 80);
         items.put("H", 90);
 
+        items.forEach((k, v) -> {
+            System.out.println("Key:" + k + "Value:" + v);
+        });
+
+        items.forEach((k, v) -> {
+            System.out.println("Key:" + k + "Value:" + v);
+            if ("E".equals(k)) {
+                System.out.println("Hello" + k);
+            }
+        });
     }
 }
