@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../enterprise-scheduler2/rest-frontend-ms/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/com/thinkinjava/Main.java">
           <value>
             <set />
@@ -49,6 +54,51 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/foreach/IterateMapInJDKSix.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/consumer/ConsumerAcceptTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/consumer/ConsumerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/consumer/consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/ComposedPredicateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/PredicateAndTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/PredicateInFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/PredicateNegateTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/PredicateOrTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/com/thinkinjava/eight/functionalinterface/predicate/PredicateTest.java">
           <value>
             <set />
           </value>

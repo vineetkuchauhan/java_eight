@@ -1,0 +1,10 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÁæ8¹í°ù­,
+esquid:S4143"DVerify this is the key that was intended; it was already set before.(¯ğ¶»ÿÿÿÿÿ8µÒ¯ù­,
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÁæ8ìØµù­,
+Ysquid:S1197"8Move the array designator from the variable to the type.(ÎÍµúÿÿÿÿ8±ó®ù­,
+Hsquid:S1602",Remove useless curly braces around statement(‘±Û¯8¹í°ù­,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÉ€şÿÿÿÿ8Ùó·ù­,

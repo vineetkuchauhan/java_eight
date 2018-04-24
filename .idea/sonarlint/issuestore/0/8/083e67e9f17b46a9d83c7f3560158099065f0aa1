@@ -1,0 +1,9 @@
+
+Ksquid:S1611"/Remove the parentheses around the "x" parameter(ÎµÕ8÷Ğ¡÷®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶ÃşÙøÿÿÿÿ8÷Ğ¡÷®,
+Hsquid:S1602",Remove useless curly braces around statement(ÎµÕ8÷Ğ¡÷®,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ª¡üüÿÿÿÿ8µêœ÷®,
+Msquid:S1602",Remove useless curly braces around statement(Ì¥Ôšúÿÿÿÿ8µêœ÷®,
+Rsquid:S1611"1Remove the parentheses around the "arg" parameter(Ì¥Ôšúÿÿÿÿ8µêœ÷®,
